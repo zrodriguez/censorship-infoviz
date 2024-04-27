@@ -1,0 +1,7 @@
+# Ignore Python cache files and directories
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore Python virtual environments
+censorship-venv
