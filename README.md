@@ -9,14 +9,12 @@ Set up and install dependencies:
 1. pip3 install -r requirements.txt
 2. python3 -m venv censorship-venv && source censorship-venv/bin/activate
 
-Run: 
+Run:
+1. python3 app.py
 
-3. python3 app.py
-
-Close: 
-
-4. CLTR + C
-5. source deactivate
+Close:
+1. CLTR + C
+2. source deactivate
 
 ### Data Source
 [PEN America Index of School Book Bans 2021-2022](https://pen.org/banned-book-list-2021-2022/?)
