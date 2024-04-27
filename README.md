@@ -8,10 +8,10 @@ Set up and install dependencies:
 1. pip3 install -r requirements.txt
 2. python3 -m venv censorship-venv && source censorship-venv/bin/activate
 
-Run
+Run: 
 3. python3 app.py
 
-Close
+Close: 
 4. CLTR + C
 5. source deactivate
 
