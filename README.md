@@ -2,6 +2,7 @@
 ## Information Visualization Project
 
 [Project Proposal](https://drive.google.com/file/d/1pN6PEiEg98IITE4-kK9jr2LfjAmglOwo/view?usp=sharing)
+[Project Presentation](https://docs.google.com/presentation/d/1OJH0K7wPPqI_U1BCfGnXH3rBePtj76OPgim4mtYC5CA/edit?usp=sharing)
 
 ### How to use the Censorship Dashboard
 Set up and install dependencies:
