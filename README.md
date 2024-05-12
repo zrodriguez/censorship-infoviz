@@ -5,6 +5,8 @@
 
 [Project Presentation](https://docs.google.com/presentation/d/1OJH0K7wPPqI_U1BCfGnXH3rBePtj76OPgim4mtYC5CA/edit?usp=sharing)
 
+[Project Final Report](https://drive.google.com/file/d/12Qwuh4sFoTvSYSjNdt0raV_DFc2Od8K2/view?usp=share_link)
+
 Over the last few years, censorship and book challenges have increased in various educational institutions all across the United States. The American Library Association’s (ALA) Office for Intellectual Freedom (OIF) reported a 65 percent increase of book challenges from 2022 to 2023. This information visualization final project utilization the PEN American Index of School Bans from the last two school years to create an interactive, education information graphic to learn about the authors and titles being targeted. 
 
 
